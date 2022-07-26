@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+#Memo Cards Game
 ![image](https://github.com/copgADSI/MemoCardsGame/blob/master/src/assets/images/banner.jpg)
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
