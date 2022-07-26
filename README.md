@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Memo Cards Game 
+  <img src="https://github.com/copgADSI/MemoCardsGame/blob/master/src/assets/images/banner.jpg" width="350" alt="Memo Cards">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
