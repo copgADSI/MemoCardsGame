@@ -1,4 +1,4 @@
-#Memo Cards Game
+# Memo Cards Game
 ![image](https://github.com/copgADSI/MemoCardsGame/blob/master/src/assets/images/banner.jpg)
 
 # Getting Started with Create React App
