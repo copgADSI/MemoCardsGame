@@ -9,7 +9,7 @@ const SingleCard = ({ card }) => {
             <div>
                 <button
                     className={
-                        card.matched ||  choiceOne === card  ? 'known_card' : ''
+                        card.matched ||  choiceOne === card  ? 'know_card' : 'unknown_card'
                     }
                     onClick={() => handleClick(card)}
                 >
